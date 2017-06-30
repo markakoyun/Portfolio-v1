@@ -59,10 +59,10 @@ h1{
 }
 
 .aboutcolRight{
-    padding: 40px 40px 0 40px;
+    padding: 40px 20px 0 20px;
 }
 
-.abouth2 , .worksh2{
+.abouth2{
     font-family: 'Montserrat', sans-serif;
     font-size: 36px;
     font-weight: bold;
@@ -71,11 +71,32 @@ h1{
     padding-bottom: 20px;
 }
 
-.row1 , row2{
+.worksh2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+}
+
+.row1{
+    padding:20px 0 0 0;
+}
+.row2{
     padding:20px 0 20px 0;
     margin-bottom: 20px;
 }
 
 .progress-bar{
     background-color: #284042;
+}
+
+#works{
+   background-color: #022327;
+   padding: 40px 0 0 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
 }
