@@ -47,7 +47,7 @@ h1{
 }
 
 .aboutcolLeft{
-     background: url(../image/aboutpic.jpg) no-repeat center center; 
+background: url(../image/aboutpic.jpg) no-repeat center center; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
